@@ -1,0 +1,33 @@
+[27-Aug-2015 13:43:42] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 12
+[27-Aug-2015 13:43:56] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 12
+[27-Aug-2015 14:08:16] PHP Fatal error:  Call to undefined function  get_organizador_by_id() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/login.php on line 149
+[27-Aug-2015 14:11:33] PHP Fatal error:  Call to undefined function  get_organizador_by_id() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/login.php on line 34
+[27-Aug-2015 15:30:01] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ')' in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/propiedad_m.php on line 379
+[27-Aug-2015 15:30:26] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/propiedad_m.php on line 379
+[27-Aug-2015 15:31:01] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/propiedad_m.php on line 379
+[27-Aug-2015 15:31:05] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/propiedad_m.php on line 379
+[02-Sep-2015 18:55:47] PHP Fatal error:  Call to a member function material_by_id() on a non-object in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/contacto.php on line 52
+[07-Sep-2015 14:25:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/login.php on line 175
+[14-Sep-2015 20:09:26] PHP Fatal error:  Call to undefined function  imagecrop() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/proyectos.php on line 203
+[21-Sep-2015 13:12:21] PHP Fatal error:  Call to undefined function  imagecrop() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/proyectos.php on line 203
+[21-Sep-2015 14:57:45] PHP Fatal error:  Call to undefined function  imagecrop() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/proyectos.php on line 203
+[22-Sep-2015 16:39:20] PHP Fatal error:  Call to undefined function  imagecrop() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/proyectos.php on line 203
+[24-Sep-2015 12:34:47] PHP Fatal error:  Call to undefined method Usuario_m::get_contacto_by_id() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/login.php on line 220
+[24-Sep-2015 14:03:59] PHP Parse error:  syntax error, unexpected ')' in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/login.php on line 168
+[24-Sep-2015 14:59:09] PHP Parse error:  syntax error, unexpected T_ELSE in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 34
+[24-Sep-2015 17:50:30] PHP Fatal error:  Unsupported operand types in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 76
+[24-Sep-2015 18:06:24] PHP Fatal error:  Cannot use object of type stdClass as array in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 78
+[24-Sep-2015 18:39:42] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 83
+[24-Sep-2015 18:40:37] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 83
+[24-Sep-2015 18:40:42] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 83
+[25-Sep-2015 09:28:24] PHP Fatal error:  Call to undefined function  imagecrop() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/proyectos.php on line 203
+[25-Sep-2015 09:29:08] PHP Fatal error:  Call to undefined function  imagecrop() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/proyectos.php on line 203
+[25-Sep-2015 17:10:48] PHP Fatal error:  Call to undefined function  imagecrop() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/proyectos.php on line 203
+[25-Sep-2015 17:11:07] PHP Fatal error:  Call to undefined function  imagecrop() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/proyectos.php on line 203
+[28-Sep-2015 19:08:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 67
+[28-Sep-2015 19:09:06] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 68
+[28-Sep-2015 19:09:31] PHP Fatal error:  Call to undefined method Usuario_m::get_pedido_detalle_by() in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 52
+[28-Sep-2015 19:09:55] PHP Fatal error:  Call to undefined method Usuario_m::_add_file_marker() in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 103
+[28-Sep-2015 19:10:48] PHP Fatal error:  Call to undefined method Usuario_m::_add_file_marker() in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/usuario_m.php on line 103
+[29-Sep-2015 15:02:40] PHP Fatal error:  Call to undefined function  imagecrop() in /home/spcgrafi/public_html/decoratupared.com.ar/application/controllers/proyectos.php on line 199
+[29-Sep-2015 15:27:33 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/spcgrafi/public_html/decoratupared.com.ar/application/models/propiedad_m.php on line 381
